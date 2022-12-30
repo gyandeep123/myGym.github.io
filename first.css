@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.aa{
+    border-radius: 25px;
+}
+.ab{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ac{
+    font-size: 50px;
+}
+.ad{
+    background-color: black;
+    margin-top: -30px;
+}
+.ae{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+}
+.ak{
+    color: white;
+}
+.dd{ 
+    text-align: center;
+    color: white;
+}
+.ba{
+    background-color: red;
+}
+.mm{
+    text-align: center;
+    color: white;
+}
+.mn{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    text-shadow: 1px 1px;
+}
+.fon{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}

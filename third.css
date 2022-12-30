@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-color: black;
+}
+.aa{
+    border-radius: 25px;
+}
+.aa{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+color: red;
+}
+.ab{
+    background-color: black;
+}
+.ac{
+    text-align: center;
+}
+.ad{
+    background-color: brown;
+    width: 90%;
+}
+.ak{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-color: black;
+}
+.aa{
+    border-radius: 25px;
+}
